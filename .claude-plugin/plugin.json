@@ -1,0 +1,19 @@
+{
+  "name": "onsomble",
+  "displayName": "Onsomble",
+  "version": "0.1.0",
+  "description": "Track how AI assistants talk about your brand and market, and learn how to show up better.",
+  "author": {
+    "name": "Onsomble Limited",
+    "url": "https://www.onsomble.ai"
+  },
+  "homepage": "https://docs.onsomble.ai/developers/connect/claude",
+  "repository": "https://github.com/Onsomble-ai/onsomble-claude-plugin",
+  "license": "MIT",
+  "keywords": ["research", "marketing", "communications", "ai-visibility"],
+  "icon": "./icon.png",
+  "documentationUrl": "https://docs.onsomble.ai/developers/connect/claude",
+  "supportUrl": "https://www.onsomble.ai/company/contact",
+  "privacyPolicyUrl": "https://www.onsomble.ai/privacy",
+  "termsOfServiceUrl": "https://www.onsomble.ai/terms"
+}

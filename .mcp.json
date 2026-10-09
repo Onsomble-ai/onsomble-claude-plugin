@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "onsomble": {
+      "type": "http",
+      "url": "https://mcp.onsomble.ai/mcp"
+    }
+  }
+}
